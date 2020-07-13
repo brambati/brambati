@@ -5,18 +5,18 @@ Tenho uma graduação em **Sistemas para internet** e uma Pós-Graduação em **
 **Sou uma pessoa sedenta por conhecimento e sempre estou buscando aperfeiçoar o que já tenho e buscar novos conhecimentos**
 
 ## Segue minhas skills 
-[ X ] Ionic Framework 90% de 100%
-- Codeigniter 100% de 100%
-- Script Case 90% de 100%
-- SQL Server 95% de 100%
-- Bootstrap 100% de 100%
-- CSS 100% de 100%
-- HTML 100% de 100%
-- Javascript 95% de 100%
-- Jquery 100% de 100%
-- Mysql 93% de 100%
-- PHP 93% de 100%
-- Photoshop 40% de 100%
+- [x] Ionic Framework 90% de 100%
+- [x] Codeigniter 100% de 100%
+- [x] Script Case 90% de 100%
+- [x] SQL Server 95% de 100%
+- [x] Bootstrap 100% de 100%
+- [x] CSS 100% de 100%
+- [x] HTML 100% de 100%
+- [x] Javascript 95% de 100%
+- [x] Jquery 100% de 100%
+- [x] Mysql 93% de 100%
+- [x] PHP 93% de 100%
+- [x] Photoshop 40% de 100%
 
 
 ## Missão
