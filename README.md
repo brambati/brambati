@@ -1,12 +1,12 @@
 ## Missão
-Desenvolver nossos trabalhos de forma honesta e eficiente, respeitando a postura profissional.
+Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura profissional.
 
 ## Valores
-Profissionalismo
-Postura
-Ética
-Buscar novas tecnologias
-Comprometimento
+- Profissionalismo
+- Postura
+- Ética
+- Buscar novas tecnologias
+- Comprometimento
 
 <!--
 **brambati/brambati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
