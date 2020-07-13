@@ -5,7 +5,7 @@ Tenho uma graduação em **Sistemas para internet** e uma Pós-Graduação em **
 **Sou uma pessoa sedenta por conhecimento e sempre estou buscando aperfeiçoar o que já tenho e buscar novos conhecimentos**
 
 ## Segue minhas skills 
-[ x ] Ionic Framework 90% de 100%
+[ X ] Ionic Framework 90% de 100%
 - Codeigniter 100% de 100%
 - Script Case 90% de 100%
 - SQL Server 95% de 100%
