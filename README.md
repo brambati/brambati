@@ -1,3 +1,5 @@
+Olá Me chamo Jonathan, tenho experiência mais de 10 anos na área de desenvolvimento web com as seguintes tecnologias, #php, #html, #css #javascript, #jquery, #mysql e com amplo e crescente conhecimento na área.
+
 ## Missão
 Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura profissional.
 
