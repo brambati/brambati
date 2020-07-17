@@ -22,7 +22,7 @@ Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvim
 ![alt text](https://img.shields.io/badge/Ionic%20Framework-4586f8)
 ![alt text](https://img.shields.io/badge/AJAX-4586f8)
 ![alt text](https://img.shields.io/badge/Angular-be002e)
-![alt text](https://img.shields.io/badge/VisualStudioCode-259ee2)
+![alt text](https://img.shields.io/badge/Visual%20Studio%20Code-259ee2)
 
 ## Missão
 Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura profissional.
