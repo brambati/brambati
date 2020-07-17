@@ -9,20 +9,17 @@ Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvim
 ## Segue minhas Skills 
 
 ![alt text](https://img.shields.io/badge/-HTML-orange)
-
-- [x] Ionic Framework 90% de 100%
-- [x] Codeigniter 100% de 100%
-- [x] Script Case 90% de 100%
-- [x] SQL Server 95% de 100%
-- [x] Bootstrap 100% de 100%
-- [x] CSS 100% de 100%
-- [x] HTML 100% de 100%
-- [x] Javascript 95% de 100%
-- [x] Jquery 100% de 100%
-- [x] Mysql 93% de 100%
-- [x] PHP 93% de 100%
-- [x] Photoshop 40% de 100%
-
+![alt text](https://img.shields.io/badge/-CSS-blue)
+![alt text](https://img.shields.io/badge/-Javascript-yellow)
+![alt text](https://img.shields.io/badge/Bootstrap%20-563d7c)
+![alt text](https://img.shields.io/badge/-Jquery-blue)
+![alt text](https://img.shields.io/badge/-PHP-777bb3)
+![alt text](https://img.shields.io/badge/MY%20SQL-777bb3)
+![alt text](http://img.shields.io/badge/SQL%20SERVER-dc2823)
+![alt text](https://img.shields.io/badge/Photoshop-001d35)
+![alt text](https://img.shields.io/badge/Codeigniter-e74122)
+![alt text](https://img.shields.io/badge/ScriptCase-537cbc)
+![alt text](https://img.shields.io/badge/Ionic%20Framework-4586f8)
 
 ## Missão
 Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura profissional.
