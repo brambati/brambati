@@ -2,7 +2,7 @@ Olá Me chamo ***Jonathan***, tenho experiência mais de 10 anos na área de des
 
 Tenho uma graduação em **Sistemas para internet** e uma Pós-Graduação em **Engenharia de Software**
 
-Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvimento [JonathanMoreira]![alt text](https://jonathanmoreira.com.br/) acessa lá e me segue nas redes sociais.
+Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvimento [https://img.shields.io/badge/Jonathan%20Moreira-b23590](https://jonathanmoreira.com.br/) acessa lá e me segue nas redes sociais.
 
 **Sou uma pessoa sedenta por conhecimento e sempre estou buscando aperfeiçoar o que já tenho e buscar novos conhecimentos**
 
