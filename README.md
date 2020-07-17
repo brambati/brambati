@@ -22,6 +22,7 @@ Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvim
 ![alt text](https://img.shields.io/badge/Ionic%20Framework-4586f8)
 ![alt text](https://img.shields.io/badge/AJAX-4586f8)
 ![alt text](https://img.shields.io/badge/Angular-be002e)
+![alt text](https://img.shields.io/badge/Visual Studio Code-259ee2)
 
 
 ## Missão
