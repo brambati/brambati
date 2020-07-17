@@ -2,7 +2,7 @@ Olá Me chamo ***Jonathan***, tenho experiência mais de 10 anos na área de des
 
 Tenho uma graduação em **Sistemas para internet** e uma Pós-Graduação em **Engenharia de Software**
 
-Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvimento [https://img.shields.io/badge/Jonathan%20Moreira-b23590](https://jonathanmoreira.com.br/) acessa lá e me segue nas redes sociais.
+Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvimento [![alt text](https://img.shields.io/badge/Jonathan%20Moreira-5bc0de)](https://jonathanmoreira.com.br/) acessa lá e me segue nas redes sociais.
 
 **Sou uma pessoa sedenta por conhecimento e sempre estou buscando aperfeiçoar o que já tenho e buscar novos conhecimentos**
 
@@ -36,6 +36,8 @@ Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura pro
 - Ética
 - Buscar novas tecnologias
 - Comprometimento
+
+[![alt text](-https://img.shields.io/badge/%F0%9F%8C%90-Jonathan%20Moreira-5bc0de)](https://jonathanmoreira.com.br/)
 
 <!--
 **brambati/brambati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
