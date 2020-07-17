@@ -6,7 +6,10 @@ Tenho um site onde crio conteúdo para ajudar as pessoas na areá de desenvolvim
 
 **Sou uma pessoa sedenta por conhecimento e sempre estou buscando aperfeiçoar o que já tenho e buscar novos conhecimentos**
 
-## Segue minhas skills 
+## Segue minhas Skills 
+
+![alt text](https://img.shields.io/badge/-HTML-orange)
+
 - [x] Ionic Framework 90% de 100%
 - [x] Codeigniter 100% de 100%
 - [x] Script Case 90% de 100%
