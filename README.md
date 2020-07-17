@@ -41,6 +41,7 @@ Desenvolver meu trabalho de forma honesta e eficiente, respeitando a postura pro
 [![alt text](https://img.shields.io/badge/Facebook-3d5a99?logo=facebook)](https://www.facebook.com/JMComunicacaoESolucoesWeb)
 [![alt text](https://img.shields.io/badge/Instagram-f78539?logo=instagram)](https://www.instagram.com/jonathanmoreira.com.br/)
 [![alt text](https://img.shields.io/badge/Youtube-c00?logo=youtube)](https://www.youtube.com/CursosOnlineJM)
+[![alt text](https://img.shields.io/badge/Linkedin-0077b7?logo=linkedin)](https://www.linkedin.com/in/jonathanbrambati)
 
 <!--
 **brambati/brambati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
